@@ -10,6 +10,8 @@ Download [GeoPDF](rrg-arches.pdf)
 
 Web page at: [https://coltonhoward.github.io/rrg/]
 
+### Additional Photos
+
 Photographs of Natural Bridge
 
 ![Image](images/NAtural Bridge.pdf)
