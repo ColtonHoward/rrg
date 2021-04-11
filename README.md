@@ -14,6 +14,8 @@ Web page at: [https://coltonhoward.github.io/rrg/]
 
 Photographs of Natural Bridge
 
-![Image](images/NAtural Bridge.pdf)
+![Image](images/NAturalBridge.jpg)
+*photo taken by Bailey,B. (1995).*
 
-*photo taken by Bailey,B. (1995)*
+![Image](images/NaturalBridge2.jpg)
+*Photo taken by Kentucky Tourism, Arts and Heritage Cabinet.*
