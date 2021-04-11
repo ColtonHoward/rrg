@@ -12,5 +12,6 @@ Web page at: [https://coltonhoward.github.io/rrg/]
 
 Photographs of Natural Bridge
 
-![Photographs](NAtural Bridge.jpg)
-*Image found at http://www.redrivergorge.com/history-education/natural-bridge/ photo taken by Bailey,B. (1995)
+![Image](images/NAtural Bridge.pdf)
+
+*photo taken by Bailey,B. (1995)*
