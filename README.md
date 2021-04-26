@@ -19,3 +19,14 @@ Photographs of Natural Bridge
 
 ![Image](images/NaturalBridge2.jpg)   
 *Photo taken by Kentucky Tourism, Arts and Heritage Cabinet.*
+
+### Looking Upward at Chained Rock
+
+![Image](chainedrock.jpg)   
+*Chained Rock from a lower elevation view.*
+
+### Animation
+
+![Image](Capture.jpg)
+
+[Link to Video](https://youtu.be/M3YFM2y4iKQ)
