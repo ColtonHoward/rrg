@@ -22,11 +22,11 @@ Photographs of Natural Bridge
 
 ### Looking Upward at Chained Rock
 
-![Image](chainedrock.jpg)   
+![Image](images/chainedrock.jpg)   
 *Chained Rock from a lower elevation view.*
 
 ### Animation
 
-![Image](Capture.jpg)
+![Image](images/Capture.jpg)
 
 [Link to Video](https://youtu.be/M3YFM2y4iKQ)
