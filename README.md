@@ -27,6 +27,7 @@ Photographs of Natural Bridge
 
 ### Animation
 
-![Image](images/Capture.jpg)
+![Image](images/Capture.jpg)   
+*Screen capture of animation video*
 
 [Link to Video](https://youtu.be/M3YFM2y4iKQ)
