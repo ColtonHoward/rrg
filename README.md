@@ -34,8 +34,10 @@ Photographs of Natural Bridge
 
 Web page at: [github.com/ColtonHoward/rrg](https://github.com/ColtonHoward/rrg)
 
-### Site Maps
+### Natural Bridge Site Map
 
-[link to site map](site-map/index.html)
+[link to site map](site-map/mapboxindex.html)
+
+### Natural Bridge Tour
 
 [link to site map](site-map/cesiumindex.html)
