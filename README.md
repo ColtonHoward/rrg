@@ -36,8 +36,8 @@ Web page at: [github.com/ColtonHoward/rrg](https://github.com/ColtonHoward/rrg)
 
 ### Natural Bridge Site Map
 
-[link to site map](site-map/mapboxindex.html)
+[link to site map](https://api.mapbox.com/styles/v1/ncho225/ckohdr0ka2snx17pgowoeuksc.html?fresh=true&title=copy&access_token=pk.eyJ1IjoibmNobzIyNSIsImEiOiJja2tib3g1d2wwMWt2MnZwaXoyOGx2ZXZiIn0.JUzbwNRH7s0z0fX_Je4sWQ)
 
 ### Natural Bridge Tour
 
-[link to site map](site-map/cesiumindex.html)
+[link to tour](https://cesium.com/ion/stories/viewer/?id=3e504b65-0bb4-4eb8-bcb6-4423c66fb050)
