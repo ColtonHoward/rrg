@@ -27,9 +27,9 @@ Photographs of Natural Bridge
 
 ### Animation
 
-![Image](images/AnimationCapture.jpg)   
+![Image](images/AnimationCapture.JPG)   
 *Screen capture of animation video*
 
 [Link to Video](https://youtu.be/M3YFM2y4iKQ)
 
-Web page at: [https://github.com/ColtonHoward/rrg]
+Web page at: [github.com/ColtonHoward/rrg](https://github.com/ColtonHoward/rrg)
